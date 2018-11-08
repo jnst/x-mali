@@ -1,0 +1,17 @@
+{
+  "name": "x-mali",
+  "version": "0.0.1",
+  "main": "main.js",
+  "repository": "https://github.com/jnst/x-mali",
+  "author": "jnst <jnst@outlook.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "node main"
+  },
+  "dependencies": {
+    "@grpc/proto-loader": "^0.3.0",
+    "grpc": "^1.16.0",
+    "mali": "^0.10.1"
+  }
+}
